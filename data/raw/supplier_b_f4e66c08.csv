@@ -1,0 +1,6 @@
+part_number,product_description,upc,make,model_no,wholesale_price,stock_level,product_dept,last_updated,long_description
+GS-IPHONE15-PRO,Apple iPhone 15 Pro Max 256GB - Unlocked Titanium,4500000100015,Apple,MU773LL/A,1149.00,120,Mobile Devices / Cellular,2026-11-12 08:07:49,Factory unlocked 6.7-inch Super Retina XDR display with ProMotion.
+GS-SONY-65OLED,Sony 65-Inch A80L Series 4K OLED Smart TV (2024),4500000100022,Sony,XR-65A80L,1649.00,35,Consumer AV / Displays,2026-11-12 07:07:49,Acoustic Surface Audio+ with Cognitive Processor XR for pure blacks and lifelike brightness.
+GS-NINT-SWOLED,Nintendo Switch OLED Model - White Joy-Con Console,4500000100053,Nintendo,HEGSKAAAA,319.99,85,Gaming Hardware,2026-11-12 04:07:49,"Vibrant 7-inch OLED screen, wide adjustable stand, and 64GB internal storage."
+GS-KEYCHRON-Q1P,Keychron Q1 Pro QMK/VIA Wireless Custom Mechanical Keyboard,,Keychron,Q1P-M1,195.00,50,Computer Peripherals,2026-11-12 06:07:49,"CNC aluminum body, hot-swappable K Pro Red switches with double-gasket mount."
+GS-ERR-BILLING-002,Defective Hardware Part With Inversion Price Glitch,4500000990029,HardwareCo,ERR-999,-89.00,10,Misc Components,2026-11-12 09:07:49,Should be quarantined due to negative price.

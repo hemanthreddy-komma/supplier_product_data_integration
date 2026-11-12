@@ -1,0 +1,61 @@
+[
+  {
+    "sku_id": "TC-APPL-IPH15P",
+    "product_title": "Apple iPhone 15 Pro Max (256GB, Natural Titanium)",
+    "barcode_gtin": "4500000100015",
+    "brand_name": "Apple",
+    "manufacturer_pn": "MU773LL/A",
+    "cost_usd": 1199.0,
+    "inventory_count": 65,
+    "category_hierarchy": "Telecommunications / Smartphones / iOS",
+    "timestamp": "2026-11-12T07:07:49.705267+00:00",
+    "description": "Aerospace-grade titanium design with A17 Pro chip and 48MP camera system."
+  },
+  {
+    "sku_id": "TC-SNY-A80L65",
+    "product_title": "Sony BRAVIA XR 65-Inch Class A80L OLED 4K HDR Google TV",
+    "barcode_gtin": "4500000100022",
+    "brand_name": "Sony",
+    "manufacturer_pn": "XR-65A80L",
+    "cost_usd": 1698.0,
+    "inventory_count": 22,
+    "category_hierarchy": "Home Entertainment / Television / OLED",
+    "timestamp": "2026-11-12T05:07:49.705267+00:00",
+    "description": null
+  },
+  {
+    "sku_id": "TC-DELL-XPS15",
+    "product_title": "Dell XPS 15 9530 Laptop (Intel Core i9-13900H, 32GB RAM, 1TB SSD, RTX 4070)",
+    "barcode_gtin": "4500000100039",
+    "brand_name": "Dell",
+    "manufacturer_pn": "XPS9530-9999SLV",
+    "cost_usd": 2499.0,
+    "inventory_count": 18,
+    "category_hierarchy": "Computers / Laptops / Workstations",
+    "timestamp": "2026-11-12T06:07:49.705267+00:00",
+    "description": "High-performance 15.6-inch 3.5K OLED touchscreen display."
+  },
+  {
+    "sku_id": "TC-SMSG-S24U",
+    "product_title": "Samsung Galaxy S24 Ultra (512GB, Titanium Gray)",
+    "barcode_gtin": null,
+    "brand_name": "Samsung",
+    "manufacturer_pn": "SM-S928UZKEXAA",
+    "cost_usd": 1299.99,
+    "inventory_count": 40,
+    "category_hierarchy": "Telecommunications / Smartphones / Android",
+    "timestamp": "2026-11-12T08:07:49.705267+00:00",
+    "description": "Galaxy AI smartphone with integrated S Pen and titanium shield."
+  },
+  {
+    "sku_id": "TC-CORRUPT-001",
+    "product_title": "",
+    "barcode_gtin": "4500000990012",
+    "brand_name": "Anker",
+    "manufacturer_pn": "ANK-POWER-100W",
+    "cost_usd": 79.99,
+    "inventory_count": 30,
+    "category_hierarchy": "Accessories / Charging",
+    "timestamp": "2026-11-12T09:07:49.705267+00:00"
+  }
+]

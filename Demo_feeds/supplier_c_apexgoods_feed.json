@@ -1,0 +1,62 @@
+[
+  {
+    "item_ref": "AG-DELL-XPS15-SLV",
+    "name": "Dell XPS 15 9530 High-End Performance Notebook",
+    "ean_13": "4500000100039",
+    "brand": "Dell",
+    "mpn": "XPS9530-9999SLV",
+    "retail_price": 2599.99,
+    "qty_available": 12,
+    "category_path": "Laptops & Computers / High-Performance",
+    "feed_timestamp": "2026-11-12T08:07:49.705267+00:00",
+    "item_details": "ApexGoods authorized inventory of Dell XPS 15 2024."
+  },
+  {
+    "item_ref": "AG-SMSG-S24U-512",
+    "name": "Samsung Galaxy S24 Ultra Android AI Flagship Phone",
+    "ean_13": null,
+    "brand": "Samsung",
+    "mpn": "SM-S928UZKEXAA",
+    "retail_price": 1349.0,
+    "qty_available": 28,
+    "category_path": "Cell Phones & Accessories / Unlocked Phones",
+    "feed_timestamp": "2026-11-12T07:07:49.705267+00:00",
+    "item_details": "Quad Telephoto cameras with titanium body frame."
+  },
+  {
+    "item_ref": "AG-KEYCHRON-Q1",
+    "name": "Keychron Q1 Pro Wireless Mechanical Keyboard (Carbon Black)",
+    "ean_13": null,
+    "brand": "Keychron",
+    "mpn": "Q1P-M1",
+    "retail_price": 219.0,
+    "qty_available": 35,
+    "category_path": "Peripherals / Keyboards",
+    "feed_timestamp": "2026-11-12T08:07:49.705267+00:00",
+    "item_details": "South-facing RGB mechanical keyboard compatible with Mac and Windows."
+  },
+  {
+    "item_ref": "AG-BOSE-ULTRA",
+    "name": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones",
+    "ean_13": "4500000100060",
+    "brand": "Bose",
+    "mpn": "880066-0100",
+    "retail_price": 429.0,
+    "qty_available": 45,
+    "category_path": "Audio / Premium Headphones",
+    "feed_timestamp": "2026-11-12T06:07:49.705267+00:00",
+    "item_details": "World-class noise cancellation with spatial audio."
+  },
+  {
+    "item_ref": "AG-ERR-WAREHOUSE-003",
+    "name": "Warehouse Oversold Gaming Controller",
+    "ean_13": "4500000990036",
+    "brand": "GameZone",
+    "mpn": "GZ-NEG-01",
+    "retail_price": 49.99,
+    "qty_available": -15,
+    "category_path": "Gaming",
+    "feed_timestamp": "2026-11-12T09:07:49.705267+00:00",
+    "item_details": "Should be quarantined due to negative stock."
+  }
+]
