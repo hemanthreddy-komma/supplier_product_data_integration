@@ -6,7 +6,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%20%7C%2016%20%7C%2018-4169E1.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-D71F00.svg)](https://www.sqlalchemy.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-21%20Passed-brightgreen.svg?logo=pytest&logoColor=white)](https://docs.pytest.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A decoupled, three-tier data engineering platform that unifies heterogeneous supplier product feeds (**CSV, JSON, and Excel**) into an authoritative **Canonical Product Catalog (Golden Record)** with strict schema validation, two-tier entity resolution, priority conflict handling, field-level provenance lineage, and observability.
 
@@ -219,5 +218,3 @@ supplier_product_integration/
 
 ---
 
-## ⚖️ License
-Distributed under the MIT License. See `LICENSE` for more information.
